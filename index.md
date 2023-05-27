@@ -129,6 +129,7 @@ Wikipedia参照。
   * 2002年年10月
   * hMiffies http://mfs.jp.org/
   * インプレスPC編集部編（2013）『デザインがグッと良くなる定番フリーフォント1600セレクション』インプレスジャパンに収録
+  * インプレスPC編集部編（2007）『デザインの幅を広げる最新 フリーフォントセレクション』インプレスジャパンに収録
 * OGEBA FIGHTER
   * 「オメガファイター」のフォント
   * さとうけいいち
@@ -137,8 +138,15 @@ Wikipedia参照。
   * GEBSITE | font site for game lovers by game lovers. https://gebsite.org/
 * Radio Radio RadioBitA10
   * かあや
-  * 2005年（ファイルのタイムスタンプ）
   * JET_COMPANY 下田和政編（2005）『フリーフォント厳選900』エクスメディアに収録
+    * 2005年（ファイルのタイムスタンプ）
+  * JET_COMPANY 下田和政編（2007）『フリーフォントⅡ厳選1200』エクスメディアに収録
+    * 2002年（ファイルのタイムスタンプ）
+* ksk data
+  * 浅見圭介
+  * （2002）『フリーフォントガイドブック for Windows』工学社に収録
+  * 2001年（フォントファイルのCopyright表記）
+
 * 1968 Odyssey
   * http://www.iconian.com/number.html
   * Dan Zadorozny
@@ -441,6 +449,10 @@ Wikipedia参照。
   * 朝日新聞 東京 夕刊 p.10 広告特集
 * 朝日最新 パソコンカタログ
   * 朝日新聞 東京 朝刊 p.13 広告
+* プログラムレコーダ
+  * 松下電器 RQ-8300
+  * https://twitter.com/kohta_fd/status/1662098314307969025
+  * [さまざまなメーカーから数多くの機種が登場したデータレコーダたち ～ ナショナル プログラムレコーダ RQ\-8300 ～ \- AKIBA PC Hotline\!](https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1454041.html)
 * ぱられる
   * https://kemur.jp/sirigula_20211029
 
