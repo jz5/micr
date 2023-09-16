@@ -58,12 +58,20 @@ Wikipedia参照。
     *　ヘルムート・バウア、クリスティアン・プファイファー=ベリ編（1980）『欧字書体集』グラフィック社
     * （1991）『欧文書体集1488』
     * モンセンタイポグラファーズ編（1993）『モンセン・スタンダード欧文書体清刷集 8』島田出版
+    * アイデア編集部編「ABCのみほん かたちで見分けるフォントガイド」
 * Gemini
   * 収録書籍
     * （1991）『欧文書体集1488』
     * モンセンタイポグラファーズ編（1991）『モンセン・スタンダード欧文書体清刷集 1』島田出版 ※改訂第4版で確認
 * Data 70
+  * 書籍
+    * タイポグラフィ・ブックス編集部「目的で探すフォント見本帳」
+    * アイデア編集部編「ABCのみほん かたちで見分けるフォントガイド」
 * Orbit-B
+  * 書籍
+    * タイポグラフィ・ブックス編集部「目的で探すフォント見本帳」
+    * アイデア編集部編「ABCのみほん かたちで見分けるフォントガイド」
+    * 深沢英次＆インプレス編集部編「パーソナルフォント60 with活用Book」（フォントファイル収録）
 * Amelia
   * Designer: Stan Davis
   * Release Date: 1966?（下記コンテストの年から）
@@ -77,6 +85,8 @@ Wikipedia参照。
     * ヘルムート・バウアー、クリスチャン・ファイファー（1992）『アルファベット書体集330』グラフィック社
     * （1991）『欧文書体集1488』
     * モンセンタイポグラファーズ編（1991）『モンセン・スタンダード欧文書体清刷集 1』島田出版 ※改訂第4版で確認
+    * アイデア編集部編「ABCのみほん かたちで見分けるフォントガイド」
+    * 深沢英次＆インプレス編集部編「パーソナルフォント60 with活用Book」（フォントファイル収録）
 
 ## 最初期以降
 
@@ -130,6 +140,7 @@ Wikipedia参照。
   * hMiffies http://mfs.jp.org/
   * インプレスPC編集部編（2013）『デザインがグッと良くなる定番フリーフォント1600セレクション』インプレスジャパンに収録
   * インプレスPC編集部編（2007）『デザインの幅を広げる最新 フリーフォントセレクション』インプレスジャパンに収録
+  * ラトルズ編集部編（2015） 『デザインの腕が上がる凄いフリーフォント 1500』に収録  
 * OGEBA FIGHTER
   * 「オメガファイター」のフォント
   * さとうけいいち
@@ -146,6 +157,21 @@ Wikipedia参照。
   * 浅見圭介
   * （2002）『フリーフォントガイドブック for Windows』工学社に収録
   * 2001年（フォントファイルのCopyright表記）
+* One Nation
+  * 足立裕司
+  * http://www.9031.com
+  * ラトルズ編集部編（2015） 『デザインの腕が上がる凄いフリーフォント 1500』に収録  
+  * 公開日要確認
+* Future Imperfect
+  * Keith Bates
+  * http://www.k-type.com/fonts/future-imperfect/
+  * ラトルズ編集部編（2015） 『デザインの腕が上がる凄いフリーフォント 1500』に収録  
+  * 公開日要確認
+* Personal Computer
+  * emil Bertell
+  * http://www.dafont.com/fenotype.d552?page=3
+  * ラトルズ編集部編（2015） 『デザインの腕が上がる凄いフリーフォント 1500』に収録  
+  * 公開日要確認
 
 * 1968 Odyssey
   * http://www.iconian.com/number.html
@@ -188,6 +214,8 @@ Wikipedia参照。
   * いすゞドライバー性格診断「ISUZU COMPUTER TEST」
     * S45.1 広告？
     * Iの字形が異なる
+  * ノリスコン（第29回世界SF大会）「NOREASCON 71」のポスター
+    * SFマガジン1971年12月号
 * Gemini
 * Data 70
   * 1982年、コミケットマニュアル: https://twitter.com/miokikoeru/status/1115869731477704704
@@ -197,11 +225,16 @@ Wikipedia参照。
     * 1978年、電子ゲーム「LSIベースボール」発売 https://www.bandai.co.jp/corporate/history/
   * 名鉄協商コンピュータビル
   * マイコンBASICマガジン
+  * [File:Digital Derby Auto Raceway by Tomy, Model No\. 7034, Takes 2 "C" Batteries, Made in Japan, Copyright 1978 \(Handheld Electro\-Mechanical Game\)\.jpg \- Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Digital_Derby_Auto_Raceway_by_Tomy,_Model_No._7034,_Takes_2_%22C%22_Batteries,_Made_in_Japan,_Copyright_1978_(Handheld_Electro-Mechanical_Game).jpg)
+* 「東京スタディーズ」表紙。装丁: 天野 誠
+     * Data 70?
+     * 「デザイナーをめざす人の装丁・ブックデザイン」
 * Orbit-B
   * 映画 JM（要確認）
 * Amelia
   * 1968年、映画「[イエロー・サブマリン](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%96%E3%83%9E%E3%83%AA%E3%83%B3_(%E6%98%A0%E7%94%BB))」
-
+  * SilverBall
+    * ソフトハウス
 
 # 欧文のロゴタイプ
 
@@ -241,6 +274,11 @@ Wikipedia参照。
 * iidabashi high town
   * 飯田橋ハイタウン
   * 書体は参考程度
+* Electric Cycle
+  * 松下電器 電気自転車 Electric Cycle DG-EC2
+* 参考: 少し違うかもという書体だけどメモ
+  * SQUASH
+    * ホンダ・スカッシュ
 
 # 👾ビデオゲームフォント
 
@@ -269,6 +307,8 @@ Wikipedia参照。
 
 ### PC-8800シリーズ
 * アルフォス  
+* タイムシークレット ボンドソフト
+* ウットイ（UOOTOY）
 
 ### スーパーファミコン（SNES）
 
@@ -453,6 +493,24 @@ Wikipedia参照。
   * 松下電器 RQ-8300
   * https://twitter.com/kohta_fd/status/1662098314307969025
   * [さまざまなメーカーから数多くの機種が登場したデータレコーダたち ～ ナショナル プログラムレコーダ RQ\-8300 ～ \- AKIBA PC Hotline\!](https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1454041.html)
+* マイクロキャビン
+  * 三重県四日市市のソフトハウス
+  * MICRO CABINもMICR書体
+* マグネット・ジョー
+  * マグネット・ジョーに気を付けろ ギャル
+* クラスター 電子夢幻
+  * クラスター「電子夢幻」メトロノームレコード、テイチク 1977
+* クラスター
+  * イーノ&クラスター「未知への扉」スカイレコード、テイチク 1978
+* コンラッド・シュニッツラー
+  * コンラッド・シュニッツラー「con」、エッグレコード、キングレコード 1979
+* ザ・スパイ
+  * 串間努「子供の大科学「あの頃」遊んだふしぎ玩具、教材」光文社文庫 巻頭カラー2頁目
+  * サンスター スパイ手帳シリーズ
+  * 英字部分はMoore Computer
+  * https://twitter.com/sunstar_now/status/1255338517363920899
+
+### 参考
 * ぱられる
   * https://kemur.jp/sirigula_20211029
 
