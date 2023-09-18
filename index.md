@@ -33,6 +33,7 @@ Wikipedia参照。
 # 欧文（～1990年代）
 
 ## 最初期
+
 * Westminster
   * Designer: Leo Maggs
   * Release Date: 1964-1967年頃
@@ -132,7 +133,7 @@ Wikipedia参照。
 
 * f,f,abc techno
   * フルスクラッチフォン/井上能一
-  * 2002年05月 
+  * 2002年05月
   * JET_COMPANY 下田和政編（2005）『フリーフォント厳選900』エクスメディアに収録
 * M48_RETROFUTURE
   * MFS/Miffies
@@ -194,7 +195,7 @@ Wikipedia参照。
 * BD Kickrom Mono
 * Forward
 * TECHNODELIC
-  * macky 
+  * macky
   * 1998年
   * http://macky.s13.xrea.com/ymofont/index.html
 
@@ -226,9 +227,11 @@ Wikipedia参照。
   * 名鉄協商コンピュータビル
   * マイコンBASICマガジン
   * [File:Digital Derby Auto Raceway by Tomy, Model No\. 7034, Takes 2 "C" Batteries, Made in Japan, Copyright 1978 \(Handheld Electro\-Mechanical Game\)\.jpg \- Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Digital_Derby_Auto_Raceway_by_Tomy,_Model_No._7034,_Takes_2_%22C%22_Batteries,_Made_in_Japan,_Copyright_1978_(Handheld_Electro-Mechanical_Game).jpg)
-* 「東京スタディーズ」表紙。装丁: 天野 誠
-     * Data 70?
-     * 「デザイナーをめざす人の装丁・ブックデザイン」
+  * 「東京スタディーズ」表紙。装丁: 天野 誠
+    * Data 70?
+    * 「デザイナーをめざす人の装丁・ブックデザイン」
+    * コンピューターおばあちゃん
+    * I LOVE YOU YMO FF
 * Orbit-B
   * 映画 JM（要確認）
 * Amelia
@@ -247,6 +250,7 @@ Wikipedia参照。
   * 桑山弥三郎（1987）『レタリングデザイン』グラフィック社の「企業体のレタリング」に収録
 
 ## 日本
+
 * ENIX
   * [エニックス \- Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9)
   * 登録3147909など
@@ -306,6 +310,7 @@ Wikipedia参照。
 * ダーティペア プロジェクトエデン
 
 ### PC-8800シリーズ
+
 * アルフォス  
 * タイムシークレット ボンドソフト
 * ウットイ（UOOTOY）
@@ -352,6 +357,7 @@ Wikipedia参照。
 * スペースオデッセイ	セガ	1981
 
 ## アーケード
+
 * Halley's Comet（ハレーズコメット）
   * 筐体もMICR書体
   * https://www.arcade-museum.com/game_detail.php?game_id=8064
@@ -372,7 +378,6 @@ Wikipedia参照。
 * Saboteur (Prototype)
 * The A-Team (Prototype)
 
-
 ## その他参考
 
 * Astro Battle
@@ -382,7 +387,6 @@ Wikipedia参照。
 ## デジタルフォント
 
 * グロブダーフォント、「ナムコヒストリー Vol.2」収録
-
 
 # 和文
 
@@ -408,6 +412,7 @@ Wikipedia参照。
 ## フォント
 
 公開されている・公開されていた和文のMICR書体のデジタルフォント。
+
 * f,f,katakana techno（カタカナテクノ）
   * フルスクラッチフォン/井上能一
   * 2001年12月 
@@ -416,7 +421,6 @@ Wikipedia参照。
   * 2010年9月1日
   * カタナ・フォント
   * https://katanafonts.jimdofree.com/freeware-font/mycom/
-
 
 ## ロゴタイプ
 
@@ -511,6 +515,7 @@ Wikipedia参照。
   * https://twitter.com/sunstar_now/status/1255338517363920899
 
 ### 参考
+
 * ぱられる
   * https://kemur.jp/sirigula_20211029
 
@@ -520,9 +525,6 @@ Wikipedia参照。
   * ロゴの「ジリオン」
   * 各話のタイトルがMICR書体
   * https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%84%E5%85%89%E5%BC%BE%E3%82%B8%E3%83%AA%E3%82%AA%E3%83%B3
-
-
-
 
 # 欧文・和文以外の書体
 
@@ -598,39 +600,35 @@ ink character recognition — Part 2: Print specifications for CMC7
     * Computer, OCR-A, Amelia, Data 70
 * 小泉均編著（2012）『タイポグラフィ・ハンドブック = Handbook of Typography』研究社
   * p. 309「OCR/MICR」
-
-
-楊宗魁（1982）『中国のレタリング』、マール社（※言及は無しだが、収録字体がMICR書体風）。
-松村大輔（2018）『まちの文字図鑑ヨキカナカタカナ』大福書林、p.124で言及。
-藤本健太郎（2016）『タイポさんぽ改 : 路上の文字観察』誠文堂新光社、p.115で言及。
-藤本健太郎（2012）『タイポさんぽ: 路上の文字観察』誠文堂新光社、p.78で言及。
-稲田茂（1971）『日本字フリースタイルのエレメント』ダヴィッド社、pp.172-175「コンピュータ文字」。
-稲田茂（2013）『日本字フリースタイル・コンプリート : たのしい描き文字2100』に、p. 188「デザインショー」など影響を受けたものあり（※言及は無し）。
-桑山弥三郎（2020）『書体デザイン 新装版』グラフィック社、p. 56にコンピュータ文字の「あいうえ女鳥」。
-桑山弥三郎編著（1994）『ロゴデザイン : ロゴタイプ・デザインの基礎と世界の作品集』柏美術出版、p. 22に「電公社」（※言及は無し）。
-内田広由紀 編『レイアウト事典Part 1』p.90「メカニカルなファンシー体」として分類。
-視覚デザイン研究所 編（1988）『ロゴタイプ事典』p.307「コンピュータ文字」として分類。
-大曲都市（2020）『アーケードゲーム・タイポグラフィ ビットマップ書体の世界』グラフィック社、p.130で言及
-『アイデア』352 2012.5、p.186「ゲームフォントの世界」※言及は無し。『アーケードゲーム・タイポグラフィ ビットマップ書体の世界』が影響を受けた記事で、MICR書体のフォントも掲載されている。
-アイデア編集部編『文字とタイポグラフィの地平』p.251、機関紙「L&T」でコンピュータ文字を言及していたことがわかる。
-『作字百景』p.237 「data70風味」の作品。
+* 楊宗魁（1982）『中国のレタリング』、マール社（※言及は無しだが、収録字体がMICR書体風）。
+* 松村大輔（2018）『まちの文字図鑑ヨキカナカタカナ』大福書林、p.124で言及。
+* 藤本健太郎（2016）『タイポさんぽ改 : 路上の文字観察』誠文堂新光社、p.115で言及。
+* 藤本健太郎（2012）『タイポさんぽ: 路上の文字観察』誠文堂新光社、p.78で言及。
+* 稲田茂（1971）『日本字フリースタイルのエレメント』ダヴィッド社、pp.172-175「コンピュータ文字」。
+* 稲田茂（2013）『日本字フリースタイル・コンプリート : たのしい描き文字2100』に、p. 188「デザインショー」など影響を受けたものあり（※言及は無し）。
+* 桑山弥三郎（2020）『書体デザイン 新装版』グラフィック社、p. 56にコンピュータ文字の「あいうえ女鳥」。
+* 桑山弥三郎編著（1994）『ロゴデザイン : ロゴタイプ・デザインの基礎と世界の作品集』柏美術出版、p. 22に「電公社」（※言及は無し）。
+* 内田広由紀 編『レイアウト事典Part 1』p.90「メカニカルなファンシー体」として分類。
+* 視覚デザイン研究所 編（1988）『ロゴタイプ事典』p.307「コンピュータ文字」として分類。
+* 大曲都市（2020）『アーケードゲーム・タイポグラフィ ビットマップ書体の世界』グラフィック社、p.130で言及
+* 『アイデア』352 2012.5、p.186「ゲームフォントの世界」※言及は無し。『アーケードゲーム・タイポグラフィ ビットマップ書体の世界』が影響を受けた記事で、MICR書体のフォントも掲載されている。
+* アイデア編集部編『文字とタイポグラフィの地平』p.251、機関紙「L&T」でコンピュータ文字を言及していたことがわかる。
+* 『作字百景』p.237 「data70風味」の作品。
 
 ### 参考: チェックした本
 
 * https://bookmeter.com/users/1375261
 
-
-
 ## Web
-* 窓辺の小石 第44回 Big Ben Strikes Again - ライブドアニュース https://news.livedoor.com/article/detail/21508544/
 
+* 窓辺の小石 第44回 Big Ben Strikes Again - ライブドアニュース https://news.livedoor.com/article/detail/21508544/
 
 # 参考: OCR書体
 
 * ISO 1073-1-1976
-  * Alphanumeric character sets for optical recognition - . Part I : Character set OCR-A - Shapes and dimensions of the printed image 
+  * Alphanumeric character sets for optical recognition - . Part I : Character set OCR-A - Shapes and dimensions of the printed image
 * ISO 1073-2-1976
-  * Alphanumeric character sets for optical recognition - Part II : Character set OCR-B - Shapes and dimensions of the printed image 
+  * Alphanumeric character sets for optical recognition - Part II : Character set OCR-B - Shapes and dimensions of the printed image
 
 ## 書籍
 
