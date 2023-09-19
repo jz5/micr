@@ -4,22 +4,22 @@ MICR書体について本とかにまとめるためのメモ。とくに和文�
 
 Wikipedia参照。
 
-* https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%82%A4%E3%83%B3%E3%82%AF%E6%96%87%E5%AD%97%E8%AA%8D%E8%AD%98
-* https://en.wikipedia.org/wiki/Magnetic_ink_character_recognition
+* <https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%82%A4%E3%83%B3%E3%82%AF%E6%96%87%E5%AD%97%E8%AA%8D%E8%AD%98>
+* <https://en.wikipedia.org/wiki/Magnetic_ink_character_recognition>
 
 # MICRフォント
 
 * E-13B
   * デジタルフォント（模したもの）
-    * GnuMICR https://sandeen.net/GnuMICR/
-      * 実際には使えない情報あり https://community.oracle.com/mosc/discussion/2805504/gnumicr-rejected-by-bank
-    * 参考: https://dribbble.com/shots/15028728-E13B-Font-Letterforms-Freebie
-      * https://www.figma.com/community/file/937078683705709943
+    * GnuMICR <https://sandeen.net/GnuMICR/>
+      * 実際には使えない情報あり <https://community.oracle.com/mosc/discussion/2805504/gnumicr-rejected-by-bank>
+    * 参考: <https://dribbble.com/shots/15028728-E13B-Font-Letterforms-Freebie>
+      * <https://www.figma.com/community/file/937078683705709943>
       * フォントファイルではない
     * MICR Encoding
       * Digital Graphic Labs
-      * http://luc.devroye.org/fonts-27453.html
-      * http://web.archive.org/web/20030806194852fw_/http://www.digitalgraphiclabs.com/default.html
+      * <http://luc.devroye.org/fonts-27453.html>
+      * <http://web.archive.org/web/20030806194852fw_/http://www.digitalgraphiclabs.com/default.html>
   * 収録書籍
     * W. Pincus Jaspert, W. Turner Berry, A. F. Johnson (1983) *The encyclopaedia of type faces*, Blandford Press
       * >A type face designed to meet the needs of magnetic character recognition in automatic cheque and document reading equipment. MOOR COMPUTER complements the numerals.
@@ -37,12 +37,12 @@ Wikipedia参照。
 * Westminster
   * Designer: Leo Maggs
   * Release Date: 1964-1967年頃
-    * https://www.mercerdesign.com/true-story-westminster-font/
+    * <https://www.mercerdesign.com/true-story-westminster-font/>
     * 1964年か1965年頃に制作を依頼されたとの記載。1967年の*Weekend Telegraph* No.126 の付録の記事の見出しに使われていたとの記載。
   * デジタルフォント
     * Data by Eraman, Ltd., and Type Solutions, Inc.
     * 1993年
-    * https://learn.microsoft.com/ja-jp/typography/font-list/westminster
+    * <https://learn.microsoft.com/ja-jp/typography/font-list/westminster>
     * Windows 98, Windows 98 SE, Windows Meに収録（日本語版で確認）
   * 収録書籍
     *　ヘルムート・バウア、クリスティアン・プファイファー=ベリ編（1980）『欧字書体集』グラフィック社
@@ -78,10 +78,10 @@ Wikipedia参照。
   * Release Date: 1966?（下記コンテストの年から）
   * Foundry: Visual Graphics Corporation (VGC)
   * 「1966 International Typeface Design Competition sponsored by VGC」入賞
-    * http://luc.devroye.org/fonts-69427.html
-    * https://www.flickr.com/search/?user_id=31623674%40N00&view_all=1&text=VGC%201966
+    * <http://luc.devroye.org/fonts-69427.html>
+    * <https://www.flickr.com/search/?user_id=31623674%40N00&view_all=1&text=VGC%201966>
   * 1970年10月16日発行「レタリング＆タイポグラフィ」創刊号の「コンピューター文字」に「国際タイプフェースコンテストに入賞したコンピュータースタイルのスタイルの写植書体」として紹介されている。
-  * 名前の由来、デジタルフォントの争いに関して: http://luc.devroye.org/amelia.html
+  * 名前の由来、デジタルフォントの争いに関して: <http://luc.devroye.org/amelia.html>
   * 収録書籍
     * ヘルムート・バウアー、クリスチャン・ファイファー（1992）『アルファベット書体集330』グラフィック社
     * （1991）『欧文書体集1488』
@@ -99,13 +99,13 @@ Wikipedia参照。
     * (1988) Mecanorma Graphic Book 14, Mecanorma International
       * ISBN無し
 * Magnetic Ink
-* Calculator 
+* Calculator
 * TECHNODELIC
   * 奥村靫正
   * 1981年?（[テクノデリック](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF)のリリース年）
   * 『YELLOW MAGIC ORCHESTRA WINTER LIVE 1981 HD REMASTER』のSony Music Shop購入特典としてデジタルフォントが配布された
   * 『WINTER LIVE 1981』HDリマスター版発売記念スペシャルインタビュー
-    * https://www.110107.com/s/oto/page/YMO40?ima=0819
+    * <https://www.110107.com/s/oto/page/YMO40?ima=0819>
     * 「このときは、テクノデリックのフォントも作りました。当時まだコンピューターは普及していなかったので一字一字手書きです。それを写植にして、レコード・ジャケットの裏表はもちろん、ブックレットやレコード・レーベルの文字まですべてこれにしました。ロシア構成主義やモダニズムからデジタル感を強めて作ったのがこのフォントです。」
 * Sky Rocket
   * 詳細不明
@@ -125,7 +125,7 @@ Wikipedia参照。
   * （1991）『欧文書体集1488』で「COMPUTER」に分類
 * bitwise
   * Digital Graphic Labs
-  * http://luc.devroye.org/fonts-27453.html
+  * <http://luc.devroye.org/fonts-27453.html>
 
 # 欧文（2000年代～）
 
@@ -138,7 +138,7 @@ Wikipedia参照。
 * M48_RETROFUTURE
   * MFS/Miffies
   * 2002年年10月
-  * hMiffies http://mfs.jp.org/
+  * hMiffies <http://mfs.jp.org/>
   * インプレスPC編集部編（2013）『デザインがグッと良くなる定番フリーフォント1600セレクション』インプレスジャパンに収録
   * インプレスPC編集部編（2007）『デザインの幅を広げる最新 フリーフォントセレクション』インプレスジャパンに収録
   * ラトルズ編集部編（2015） 『デザインの腕が上がる凄いフリーフォント 1500』に収録  
@@ -147,7 +147,7 @@ Wikipedia参照。
   * さとうけいいち
   * 2002年（ファイルのタイムスタプ）
   * インプレスPC編集部編（2013）『デザインがグッと良くなる定番フリーフォント1600セレクション』インプレスジャパンに収録
-  * GEBSITE | font site for game lovers by game lovers. https://gebsite.org/
+  * GEBSITE | font site for game lovers by game lovers. <https://gebsite.org/>
 * Radio Radio RadioBitA10
   * かあや
   * JET_COMPANY 下田和政編（2005）『フリーフォント厳選900』エクスメディアに収録
@@ -160,25 +160,25 @@ Wikipedia参照。
   * 2001年（フォントファイルのCopyright表記）
 * One Nation
   * 足立裕司
-  * http://www.9031.com
+  * <http://www.9031.com>
   * ラトルズ編集部編（2015） 『デザインの腕が上がる凄いフリーフォント 1500』に収録  
   * 公開日要確認
 * Future Imperfect
   * Keith Bates
-  * http://www.k-type.com/fonts/future-imperfect/
+  * <http://www.k-type.com/fonts/future-imperfect/>
   * ラトルズ編集部編（2015） 『デザインの腕が上がる凄いフリーフォント 1500』に収録  
   * 公開日要確認
 * Personal Computer
   * emil Bertell
-  * http://www.dafont.com/fenotype.d552?page=3
+  * <http://www.dafont.com/fenotype.d552?page=3>
   * ラトルズ編集部編（2015） 『デザインの腕が上がる凄いフリーフォント 1500』に収録  
   * 公開日要確認
 
 * 1968 Odyssey
-  * http://www.iconian.com/number.html
+  * <http://www.iconian.com/number.html>
   * Dan Zadorozny
   * 2014年
-  * Iconian Fonts https://www.iconian.com/
+  * Iconian Fonts <https://www.iconian.com/>
 * Computer Robot
 * Data 90
 * Eniac
@@ -197,11 +197,11 @@ Wikipedia参照。
 * TECHNODELIC
   * macky
   * 1998年
-  * http://macky.s13.xrea.com/ymofont/index.html
+  * <http://macky.s13.xrea.com/ymofont/index.html>
 
 ## 未整理
 
-* https://typodermicfonts.com/?s=micr
+* <https://typodermicfonts.com/?s=micr>
 
 # 既存の欧文MICR書体が使われているところ
 
@@ -219,18 +219,18 @@ Wikipedia参照。
     * SFマガジン1971年12月号
 * Gemini
 * Data 70
-  * 1982年、コミケットマニュアル: https://twitter.com/miokikoeru/status/1115869731477704704
-  * Roland - JUPITER-4 | Software Synthesizer https://www.roland.com/jp/products/rc_jupiter-4/
+  * 1982年、コミケットマニュアル: <https://twitter.com/miokikoeru/status/1115869731477704704>
+  * Roland - JUPITER-4 | Software Synthesizer <https://www.roland.com/jp/products/rc_jupiter-4/>
   * ヒノデワシ sensor 消しゴム
   * BANDAI electronics
-    * 1978年、電子ゲーム「LSIベースボール」発売 https://www.bandai.co.jp/corporate/history/
+    * 1978年、電子ゲーム「LSIベースボール」発売 <https://www.bandai.co.jp/corporate/history/>
   * 名鉄協商コンピュータビル
   * マイコンBASICマガジン
   * [File:Digital Derby Auto Raceway by Tomy, Model No\. 7034, Takes 2 "C" Batteries, Made in Japan, Copyright 1978 \(Handheld Electro\-Mechanical Game\)\.jpg \- Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Digital_Derby_Auto_Raceway_by_Tomy,_Model_No._7034,_Takes_2_%22C%22_Batteries,_Made_in_Japan,_Copyright_1978_(Handheld_Electro-Mechanical_Game).jpg)
   * 「東京スタディーズ」表紙。装丁: 天野 誠
     * Data 70?
     * 「デザイナーをめざす人の装丁・ブックデザイン」
-    * コンピューターおばあちゃん
+  * コンピューターおばあちゃん
     * I LOVE YOU YMO FF
 * Orbit-B
   * 映画 JM（要確認）
@@ -257,7 +257,7 @@ Wikipedia参照。
 * SystemGear
   * システムギア
   * 登録4508300
-  * https://www.systemgear.com/
+  * <https://www.systemgear.com/>
 * MEDICOM
   * AD/中谷匡児　D/藤崎良嗣 CL/（株）クルー
   * （1988）『ロゴタイプ事典』視覚デザイン研究所に収録。p. 307「コンピューター文字」
@@ -272,9 +272,9 @@ Wikipedia参照。
 * COMPET SHOW
   * シャープ コンペット ショー広告（1970/2/9朝日新聞）
 * SMILE BASIC
-  * http://smilebasic.com/
+  * <http://smilebasic.com/>
 * PETIT COMPUTER
-  * https://smileboom.com/special/petitcom/index_a40.html
+  * <https://smileboom.com/special/petitcom/index_a40.html>
 * iidabashi high town
   * 飯田橋ハイタウン
   * 書体は参考程度
@@ -327,44 +327,44 @@ Wikipedia参照。
 
 ### アーケード（出典　アイデア 2012.5）
 
-* ストラテジーX	コナミ	1981
-* ターピン	セガ	1981
-* スペースダンジョン	タイトー	1981
-* グロブダー	ナムコ	1983
-* ハレーズコメット	タイトー	1984
-* サンダーセプター	ナムコ	1986
-* オメガファイター	UPL	1989
+* ストラテジーX コナミ 1981
+* ターピン セガ 1981
+* スペースダンジョン タイトー 1981
+* グロブダー ナムコ 1983
+* ハレーズコメット タイトー 1984
+* サンダーセプター ナムコ 1986
+* オメガファイター UPL 1989
 
 ### アーケード（出典　アーケードゲーム・タイポグラフィ）
 
-* ストラテジーX	コナミ	1981
-* タートルズ	コナミ	1981
-* トロン	バリー・ミッドウェイ	1982
-* A. D. 2083	ミッドコイン	1983
-* グロブダー	ナムコ	1984
-* スペースポジション	ナスコ/セガ	1986
-* ミュータントナイト	UPL/カワクス	1987
-* ハットトリックヒーロー '95	タイトー	1984
-* アルファワン	ビジョンエレクトロニクス	1988
-* サンダークロスII	コナミ	1991
-* スティールガンナー2	ナムコ	1991
-* F1 GRAND PRIX Part2	ビデオシステム	1992
-* 作戦名ラグナロク	NMK	1994
-* アウトフォクシーズ	ナムコ	1994
-* レイフォース	タイトー	1993
-* フィグゼイト -地獄の英雄伝説-	東亜プラン	1992
-* バトルガレッガ TYPE2	ライジング/エイティング	1996
-* スペースオデッセイ	セガ	1981
+* ストラテジーX コナミ 1981
+* タートルズ コナミ 1981
+* トロン バリー・ミッドウェイ 1982
+* A. D. 2083 ミッドコイン 1983
+* グロブダー ナムコ 1984
+* スペースポジション ナスコ/セガ 1986
+* ミュータントナイト UPL/カワクス 1987
+* ハットトリックヒーロー '95 タイトー 1984
+* アルファワン ビジョンエレクトロニクス 1988
+* サンダークロスII コナミ 1991
+* スティールガンナー2 ナムコ 1991
+* F1 GRAND PRIX Part2 ビデオシステム 1992
+* 作戦名ラグナロク NMK 1994
+* アウトフォクシーズ ナムコ 1994
+* レイフォース タイトー 1993
+* フィグゼイト -地獄の英雄伝説- 東亜プラン 1992
+* バトルガレッガ TYPE2 ライジング/エイティング 1996
+* スペースオデッセイ セガ 1981
 
 ## アーケード
 
 * Halley's Comet（ハレーズコメット）
   * 筐体もMICR書体
-  * https://www.arcade-museum.com/game_detail.php?game_id=8064
+  * <https://www.arcade-museum.com/game_detail.php?game_id=8064>
 * Star Fire（スターファイヤー）
-  * https://www.arcade-museum.com/game_detail.php?game_id=9758
+  * <https://www.arcade-museum.com/game_detail.php?game_id=9758>
 * Victory（ビクトリー）
-  * https://www.arcade-museum.com/game_detail.php?game_id=10306
+  * <https://www.arcade-museum.com/game_detail.php?game_id=10306>
 
 ## Implementations of MICResque numerals in Atari VCS games.（出典 THE VIDEOGAME TEXT: TYPOGRAPHY AND TEXTUALITY）
 
@@ -382,7 +382,7 @@ Wikipedia参照。
 
 * Astro Battle
   * 筐体のみ
-  * https://www.arcade-museum.com/game_detail.php?game_id=6942
+  * <https://www.arcade-museum.com/game_detail.php?game_id=6942>
 
 ## デジタルフォント
 
@@ -415,12 +415,12 @@ Wikipedia参照。
 
 * f,f,katakana techno（カタカナテクノ）
   * フルスクラッチフォン/井上能一
-  * 2001年12月 
+  * 2001年12月
   * JET_COMPANY 下田和政編（2005）『フリーフォント厳選900』エクスメディアに収録
 * MyCom
   * 2010年9月1日
   * カタナ・フォント
-  * https://katanafonts.jimdofree.com/freeware-font/mycom/
+  * <https://katanafonts.jimdofree.com/freeware-font/mycom/>
 
 ## ロゴタイプ
 
@@ -440,19 +440,19 @@ Wikipedia参照。
   * 鹿教湯温泉観光協会のイベントポスター
 * K.K コヤナギ
   * かつて存在した会社
-  * http://naninai.seesaa.net/article/456579709.html
+  * <http://naninai.seesaa.net/article/456579709.html>
 * デザインジャーナル
-  * https://iss.ndl.go.jp/books/R100000002-I000000055027-00
+  * <https://iss.ndl.go.jp/books/R100000002-I000000055027-00>
 * ステファノ商会
   * かつて存在した会社
-  * https://onitama.tv/gamemachine/pdf/19810315p.pdf
+  * <https://onitama.tv/gamemachine/pdf/19810315p.pdf>
 * 花のプロデュース
   * 株式会社花のプロデュース　神奈川県横浜市神奈川区
   * 松村大輔（2018）『まちの文字図鑑ヨキカナカタカナ』大福書林に収録
 * ミスズビル
   * 東京都新宿区
   * 松村大輔（2018）『まちの文字図鑑ヨキカナカタカナ』大福書林に収録
-  * https://twitter.com/mimk_109/status/1344533017226743809
+  * <https://twitter.com/mimk_109/status/1344533017226743809>
 * ウエノクリーニング
   * 横浜市南区
   * 松村大輔（2018）『まちの文字図鑑ヨキカナカタカナ』大福書林に収録
@@ -460,12 +460,12 @@ Wikipedia参照。
   * 札幌市中央区
   * 松村大輔（2018）『まちの文字図鑑ヨキカナカタカナ』大福書林に収録
 * 四国警備保障株式会社
-  * https://shikoku-keibi.co.jp/
+  * <https://shikoku-keibi.co.jp/>
   * 藤本健太郎（2016）『タイポさんぽ改 : 路上の文字観察』誠文堂新光社に収録
 * ラボ
   * カフェ
   * 埼玉県川口市西川口
-  * https://showaspotmegri.cocolog-nifty.com/blog/2013/10/restaurant-cafe.html
+  * <https://showaspotmegri.cocolog-nifty.com/blog/2013/10/restaurant-cafe.html>
   * 藤本健太郎（2016）『タイポさんぽ改 : 路上の文字観察』誠文堂新光社に収録
 * ウォー・ゲーム
   * 映画「ウォー・ゲーム」1983年
@@ -483,7 +483,7 @@ Wikipedia参照。
   * 珪素原作、zunta漫画（2020）『超世界転生エグゾドライブ 激闘！異世界全日本大会編』マッグガーデン
 * スペースインベーダーTシャツプレゼント
   * 『Weeklyプレイボーイ』1979年No.28
-  * https://twitter.com/SIS_fukkokuya/status/1526494391241969670
+  * <https://twitter.com/SIS_fukkokuya/status/1526494391241969670>
 * オートマジック
   * 松下電器「IC・オートマジック」広告（昭和45年）
 * パソコン
@@ -495,7 +495,7 @@ Wikipedia参照。
   * 朝日新聞 東京 朝刊 p.13 広告
 * プログラムレコーダ
   * 松下電器 RQ-8300
-  * https://twitter.com/kohta_fd/status/1662098314307969025
+  * <https://twitter.com/kohta_fd/status/1662098314307969025>
   * [さまざまなメーカーから数多くの機種が登場したデータレコーダたち ～ ナショナル プログラムレコーダ RQ\-8300 ～ \- AKIBA PC Hotline\!](https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1454041.html)
 * マイクロキャビン
   * 三重県四日市市のソフトハウス
@@ -512,19 +512,19 @@ Wikipedia参照。
   * 串間努「子供の大科学「あの頃」遊んだふしぎ玩具、教材」光文社文庫 巻頭カラー2頁目
   * サンスター スパイ手帳シリーズ
   * 英字部分はMoore Computer
-  * https://twitter.com/sunstar_now/status/1255338517363920899
+  * <https://twitter.com/sunstar_now/status/1255338517363920899>
 
 ### 参考
 
 * ぱられる
-  * https://kemur.jp/sirigula_20211029
+  * <https://kemur.jp/sirigula_20211029>
 
 ## その他
 
 * 赤い光弾ジリオン（タツノコプロ）
   * ロゴの「ジリオン」
   * 各話のタイトルがMICR書体
-  * https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%84%E5%85%89%E5%BC%BE%E3%82%B8%E3%83%AA%E3%82%AA%E3%83%B3
+  * <https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%84%E5%85%89%E5%BC%BE%E3%82%B8%E3%83%AA%E3%82%AA%E3%83%B3>
 
 # 欧文・和文以外の書体
 
@@ -536,7 +536,7 @@ Wikipedia参照。
 # MICRの登場する映画
 
 * 『キャッチ・ミー・イフ・ユー・キャン』（Catch Me If You Can）
-  * https://spielberg-ocr.com/MICR.html
+  * <https://spielberg-ocr.com/MICR.html>
   * 参考: 原作『世界をだました男 Catch Me If You Can』新潮文庫では登場しない。
 
 # MICRの参考文献
@@ -556,35 +556,35 @@ Wikipedia参照。
 * 布川雅己 原孝志 齋籐ゆみ「磁気波形によるE13B MICR文字認識方式：ファジィ技術による磁気波形からのMICR文字認識方式について」『Omron technics』34(2)<110>（オムロン株式会社技術本部　1994）
   * p.115-120（p.33-38）
 * 高橋清 佐藤元「手形・小切手認識技術」『沖テクニカルレビュー』71(2)（沖電気工業沖テクニカルレビュー編集委員会　2004.4）
-  * https://www.oki.com/jp/otr/2004/n198/ 
+  * <https://www.oki.com/jp/otr/2004/n198/>
 * 関口茂「文字識別装置」『電氣學會雜誌』88(4)<955>（電気学会　1968）
   * p.62（p.614）「磁性文字読取り装置（Magnetic ink character reader）」
-  * https://doi.org/10.11526/ieejjournal1888.88.612
+  * <https://doi.org/10.11526/ieejjournal1888.88.612>
 * 『共立総合コンピュータ辞典』（日本ユニシス/編　共立出版　1994.4）
   * p.637-638「4.3.3　磁気インク文字読取り装置」
 * 『岩波情報科学辞典』（長尾真/[ほか]編集　岩波書店　1990.5）
   * p.277「磁気インク文字読取装置　magnetic ink character reader」
 * 坂井利之「入出力装置特集：文字読取装置と音声用装置」『情報処理』6(6)（情報処理学会　1965.11）
   * p.350-358「（a）磁気インク読取り（MICR）」
-  * http://id.nii.ac.jp/1001/00008831/ 
+  * <http://id.nii.ac.jp/1001/00008831/>
 
 ## 日本語Webサイト
 
-* MRセンサ | ニッコーシ株式会社 https://www.nikkoshi.co.jp/technology/mrsensor.html
+* MRセンサ | ニッコーシ株式会社 <https://www.nikkoshi.co.jp/technology/mrsensor.html>
 
 ## 英語
 
 * THE VIDEOGAME TEXT: TYPOGRAPHY AND TEXTUALITY
   * ZACHARY NATHAN WHALEN
-* Magnetic Ink Character Recognition (MICR) Technical Specifications 
-  * Australian Payments Network 
+* Magnetic Ink Character Recognition (MICR) Technical Specifications
+  * Australian Payments Network
   * 2017
-  * https://www.auspaynet.com.au/sites/default/files/2017-10/MICR%20Technical%20Specifications.pdf
+  * <https://www.auspaynet.com.au/sites/default/files/2017-10/MICR%20Technical%20Specifications.pdf>
 * ISO 1004-1-2013
-  * Information processing — Magnetic 
+  * Information processing — Magnetic
 ink character recognition Part 1: Print specifications for E13B
 * ISO 1004-2-2013
-  * Information processing — Magnetic 
+  * Information processing — Magnetic
 ink character recognition — Part 2: Print specifications for CMC7
 * ISO 2033:1983
   * Information processing — Coding of machine readable characters (MICR and OCR)
@@ -617,11 +617,11 @@ ink character recognition — Part 2: Print specifications for CMC7
 
 ### 参考: チェックした本
 
-* https://bookmeter.com/users/1375261
+* <https://bookmeter.com/users/1375261>
 
 ## Web
 
-* 窓辺の小石 第44回 Big Ben Strikes Again - ライブドアニュース https://news.livedoor.com/article/detail/21508544/
+* 窓辺の小石 第44回 Big Ben Strikes Again - ライブドアニュース <https://news.livedoor.com/article/detail/21508544/>
 
 # 参考: OCR書体
 
@@ -632,5 +632,5 @@ ink character recognition — Part 2: Print specifications for CMC7
 
 ## 書籍
 
-* 小林章（2008）『欧文書体 2 (定番書体と演出法)』美術出版社
+* 小林章（2008）『欧文書体 2 (定番書体と演出法）』美術出版社
   * アドリアン・フルティガーインタビュー
