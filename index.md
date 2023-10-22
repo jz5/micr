@@ -290,24 +290,34 @@ Wikipedia参照。
 
 ### ファミコン（NES）
 
-* DEATH RACE
+#### 国内
+
 * Egypt（エジプト）
   * OPのクレジット「HUMAN CREATIVE 1991」のみ？
 * F1 Circus（F1サーカス）
+  * PCエンジンの移植
 * FLIPULL（フリップル）
-* P'radikus Conflict
-* ROBOCOP（ロボコップ）
 * Shadow brain（シャドウブレイン）
+* Bucky o'hare（ファミコンバッキーオヘア）
+* ダーティペア プロジェクトエデン
+
+#### 海外
+
+* DEATH RACE
+* P'radikus Conflict
 * silk worm
 * Turtles tournament fighters
 * Xenophobe
 * Rampage
   * MICR書体？
 * Loopz
-* 参考: Family quiz
+
+#### 参考・未整理
+* 国内: Family quiz
   * OPのクレジット「ATHENA」が少しMICR書体っぽい
-* Bucky o'hare
-* ダーティペア プロジェクトエデン
+* ROBOCOP（ロボコップ）
+  * MICR書体？
+
 
 ### PC-8800シリーズ
 
@@ -323,7 +333,19 @@ Wikipedia参照。
 * Metal morph control center
 * おーちゃんのお絵かきロジック
 * PHALANX
+  * X68000が元。スーパーファミコンではOPとステージクリア時にMICR書体がある。
+  * ゲームボーイアドバンスではステージ最初の画面にMICR書体がある。
 * TIME SLIP
+
+### PCエンジン
+
+* ダブルリング ナグザット
+* F1 Circus（F1サーカス）
+  
+### メガドライブ
+
+* デンジャラスシード ナムコ
+
 
 ### アーケード（出典　アイデア 2012.5）
 
@@ -365,6 +387,10 @@ Wikipedia参照。
   * <https://www.arcade-museum.com/game_detail.php?game_id=9758>
 * Victory（ビクトリー）
   * <https://www.arcade-museum.com/game_detail.php?game_id=10306>
+* ラストミッション データイースト
+* ジュノファースト コナミ
+  * タイトルのみMICR書体
+* デンジャラスシード ナムコ
 
 ## Implementations of MICResque numerals in Atari VCS games.（出典 THE VIDEOGAME TEXT: TYPOGRAPHY AND TEXTUALITY）
 
@@ -378,6 +404,14 @@ Wikipedia参照。
 * Saboteur (Prototype)
 * The A-Team (Prototype)
 
+## ゲーム機
+
+* ODYSSEY
+  * Moore Computer 
+* テレビテニス エポック
+  * 段ボール・取扱説明書のロゴと、広告のロゴが異なる。
+  * 広告: 愛と誠イラスト集の裏表紙
+
 ## その他参考
 
 * Astro Battle
@@ -387,6 +421,10 @@ Wikipedia参照。
 ## デジタルフォント
 
 * グロブダーフォント、「ナムコヒストリー Vol.2」収録
+
+# 電子ゲーム、LSIゲーム
+
+* 
 
 # 和文
 
@@ -513,6 +551,9 @@ Wikipedia参照。
   * サンスター スパイ手帳シリーズ
   * 英字部分はMoore Computer
   * <https://twitter.com/sunstar_now/status/1255338517363920899>
+* テレビテニス
+  * エポック社、段ボール・説明書と、広告ではロゴが異なる。広告は「愛と誠イラスト集」裏表紙。
+
 
 ### 参考
 
