@@ -357,6 +357,7 @@ Wikipedia参照。
 * ストラテジーX コナミ 1981
 * ターピン セガ 1981
 * スペースダンジョン タイトー 1981
+  * Taito America 82/07 Space Dungeon アーケードTVゲームリスト国内•海外編
 * グロブダー ナムコ 1983
 * ハレーズコメット タイトー 1984
 * サンダーセプター ナムコ 1986
@@ -365,8 +366,12 @@ Wikipedia参照。
 
 ### アーケード（出典　アーケードゲーム・タイポグラフィ）
 
-* ストラテジーX コナミ 1981
+* ストラテジーX コナミ 1981 
+  * 1981/12 アーケードTVゲームリスト国内•海外編
+  * 第19回AMショー（1981/10/6-8)で発表　ゲームマシンNo.176, 177
 * タートルズ コナミ 1981
+  * 1981/11 アーケードTVゲームリスト国内•海外編
+  * 第19回AMショー（1981/10/6-8)で発表　ゲームマシンNo.176, 177
 * トロン バリー・ミッドウェイ 1982
 * A. D. 2083 ミッドコイン 1983
 * グロブダー ナムコ 1984
@@ -383,6 +388,19 @@ Wikipedia参照。
 * フィグゼイト -地獄の英雄伝説- 東亜プラン 1992 (Color)
 * バトルガレッガ TYPE2 ライジング/エイティング 1996 (Color)
 * スペースオデッセイ セガ 1981
+  * 稼働年月：1981/05 https://www.sega.jp/history/arcade/product/9473/ 
+  * 1981/06 アーケードTVゲームリスト国内•海外編
+  * 1981/4 ゲームマシン No.163
+
+## '70~'80'S ARCADE VIDEO GAMES FONT MUSEUM EXTRA GROBDA FONTS @ OTHERS
+
+* Tron (トロン) Bally Midway 1981
+* ネットウォーズ オルカ 1983
+* フォーメーションZ ジャレコ 1984
+* メタルクラッシュ データイースト 1985
+* シルクウォーム テクモ 1988
+* オメガファイター UPL　1989
+* アクアジャック タイトー 1990
 
 ## アーケード
 
@@ -401,7 +419,12 @@ Wikipedia参照。
 * サイバリオン タイトー
 * レイストーム
   * 「LOCK」のみ
-
+* Robotron: 2084
+* 筐体のみ
+  * Red Alert https://www.arcade-museum.com/game_detail.php?game_id=9288
+  * Micom Block-4（マイコンブロック 4）
+  * UFO CHASE (Electra)
+  
 ## Implementations of MICResque numerals in Atari VCS games.（出典 THE VIDEOGAME TEXT: TYPOGRAPHY AND TEXTUALITY）
 
 * Squeeze Box (US Games: 1982)
@@ -515,6 +538,8 @@ Wikipedia参照。
 * Astro Battle
   * 筐体のみ
   * <https://www.arcade-museum.com/game_detail.php?game_id=6942>
+* Robotron: 2084
+  * 筐体 https://en.wikipedia.org/wiki/Robotron:_2084
 
 ## デジタルフォント
 
