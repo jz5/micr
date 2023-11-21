@@ -280,6 +280,9 @@ Wikipedia参照。
   * 書体は参考程度
 * Electric Cycle
   * 松下電器 電気自転車 Electric Cycle DG-EC2
+* JOYLAND AMUSE
+  * ジョイランドアミューズ 諏訪（閉店）
+  * Data70。黒背景に白字の箇所はDがオリジナル。
 * 参考: 少し違うかもという書体だけどメモ
   * SQUASH
     * ホンダ・スカッシュ
