@@ -345,6 +345,26 @@ Wikipedia参照。
   * ゲームボーイアドバンスではステージ最初の画面にMICR書体がある。
 * TIME SLIP
 
+#### 未整理
+* Arkanoid - Doh It Again (Japan) (En)
+* Blues Brothers, The (Europe) (Beta)
+* Cosmo Gang - The Puzzle (Japan)
+* Dolucky no Puzzle Tour '94 (Japan)
+* Earth Defense Force (USA, Europe) (Switch Onlin..>
+* Gekitotsu Dangan Jidousha Kessen - Battle Mobil..>
+* Kabuki Chou Reach Mahjong Tonpuusen (Japan)
+* Kidou Senshi Gundam F91 - Formula Senki 0122 (J..>
+* Lock On (USA)
+* Metal Morph (USA)
+* Ou-chan no Oekaki Logic (Japan)
+* Super Air Diver (Japan)
+* Super E.D.F. (Japan) (En) (Switch Online)
+* Syvalion (Japan)
+* Thunder Spirits (Japan) (En)
+* Time Slip (Europe) (Beta)
+* Time Trax (Europe)
+* Uchuu Race - Astro Go! Go! (Japan) (En)
+
 ### PCエンジン
 
 * ダブルリング ナグザット
@@ -423,6 +443,10 @@ Wikipedia参照。
 * レイストーム
   * 「LOCK」のみ
 * Robotron: 2084
+* チェイスH.Q. タイトー
+  * タイムカウントの数字のみ
+* スーパーチェイスクリミナルターミネーション タイトー
+* CONTINENTAL CIRCUS タイトー
 * 筐体のみ
   * Red Alert https://www.arcade-museum.com/game_detail.php?game_id=9288
   * Micom Block-4（マイコンブロック 4）
