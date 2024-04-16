@@ -346,10 +346,13 @@ Wikipedia参照。
 * TIME SLIP
 
 #### 未整理
-* Arkanoid - Doh It Again (Japan) (En)
+* アルカノイド Doh it Again
 * Blues Brothers, The (Europe) (Beta)
-* Cosmo Gang - The Puzzle (Japan)
-* Dolucky no Puzzle Tour '94 (Japan)
+* コズモギャング・ザ・パズル
+  * アーケードの移植。アーケードは数字はMICR書体ではない。
+  * 数字、HISCORE,SCORE,COSMO,LINES,LEVELのみ
+* ドラッキーのパズルツアー'94
+  * 数字のみ
 * Earth Defense Force (USA, Europe) (Switch Onlin..>
 * Gekitotsu Dangan Jidousha Kessen - Battle Mobil..>
 * Kabuki Chou Reach Mahjong Tonpuusen (Japan)
@@ -360,7 +363,8 @@ Wikipedia参照。
 * Super Air Diver (Japan)
 * Super E.D.F. (Japan) (En) (Switch Online)
 * Syvalion (Japan)
-* Thunder Spirits (Japan) (En)
+* サンダースピリッツ
+  * メガドライブ「サンダーフォースIII」のアレンジ移植版
 * Time Slip (Europe) (Beta)
 * Time Trax (Europe)
 * Uchuu Race - Astro Go! Go! (Japan) (En)
@@ -447,6 +451,10 @@ Wikipedia参照。
   * タイムカウントの数字のみ
 * スーパーチェイスクリミナルターミネーション タイトー
 * CONTINENTAL CIRCUS タイトー
+* サンダーフォースAC (Thunder Force AC)
+  * メガドライブ「サンダーフォースIII」の移植。MDはMICR書体ではない。
+* パワード ギア（POWERED GEAR） カプコン
+* TEKNOWERK（テクノヴェルク） ナムコ
 * 筐体のみ
   * Red Alert https://www.arcade-museum.com/game_detail.php?game_id=9288
   * Micom Block-4（マイコンブロック 4）
