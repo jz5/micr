@@ -232,8 +232,18 @@ Wikipedia参照。
     * 「デザイナーをめざす人の装丁・ブックデザイン」
   * コンピューターおばあちゃん
     * I LOVE YOU YMO FF
+  * ジョイランドアミューズ諏訪
+    * Dは改善された字形バージョンがある
+    * https://twitter.com/lmtak/status/1726787870218924100
+    * https://twitter.com/lmari_himogucci/status/1541748004310228992
+    * https://twitter.com/Sirata_Gahaku/status/1384041984201924611
+    * https://twitter.com/NOA09068427/status/1317016106045898752
+    * https://twitter.com/universal_retz/status/1179929536042979329
+    * https://twitter.com/airrrrrrrrs/status/1119391132746752002
 * Orbit-B
   * 映画 JM（要確認）
+  * DIGITAL DEVIL STORY 女神転生 アニメージュ文庫
+    * https://www.amazon.co.jp/dp/4196695523
 * Amelia
   * 1968年、映画「[イエロー・サブマリン](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%96%E3%83%9E%E3%83%AA%E3%83%B3_(%E6%98%A0%E7%94%BB))」
   * SilverBall
@@ -303,6 +313,8 @@ Wikipedia参照。
 * Shadow brain（シャドウブレイン）
 * Bucky o'hare（ファミコンバッキーオヘア）
 * ダーティペア プロジェクトエデン
+* ＦＣ互換機用ゲーム、「OVER OBJ（オーバーオブジェ）」
+  * https://twitter.com/ls_create/status/1661037810638553088
 
 #### 海外
 
@@ -328,6 +340,7 @@ Wikipedia参照。
 * タイムシークレット ボンドソフト
 * ウットイ（UOOTOY）
   * FM-7 が元
+* ハイドライド
 
 ### メガドライブ
 
@@ -377,6 +390,13 @@ Wikipedia参照。
 ### メガドライブ
 
 * デンジャラスシード ナムコ
+* Rise of the Robots 1995/2
+  * Amiga が初。Amiga, Amiga CD32, SNES には MICR無し。
+
+### ゲームギア
+
+* Rise of the Robots 
+  * Amiga が初。Amiga, Amiga CD32, SNES には MICR無し。
 
 
 ### アーケード（出典　アイデア 2012.5）
@@ -455,10 +475,16 @@ Wikipedia参照。
   * メガドライブ「サンダーフォースIII」の移植。MDはMICR書体ではない。
 * パワード ギア（POWERED GEAR） カプコン
 * TEKNOWERK（テクノヴェルク） ナムコ
+* jubeat（初代）2008
+* パワードギア（POWERED GEAR） カプコン 1994
+* DanceDanceRevolution 
+  * TRIP MACHINE
+    * https://dancedancerevolution.fandom.com/wiki/TRIP_MACHINE_(series)
 * 筐体のみ
   * Red Alert https://www.arcade-museum.com/game_detail.php?game_id=9288
   * Micom Block-4（マイコンブロック 4）
   * UFO CHASE (Electra)
+    * https://twitter.com/_QtQ_/status/1722068610741665827
   
 ## Implementations of MICResque numerals in Atari VCS games.（出典 THE VIDEOGAME TEXT: TYPOGRAPHY AND TEXTUALITY）
 
@@ -708,7 +734,14 @@ Wikipedia参照。
   * <https://twitter.com/sunstar_now/status/1255338517363920899>
 * テレビテニス
   * エポック社、段ボール・説明書と、広告ではロゴが異なる。広告は「愛と誠イラスト集」裏表紙。
-
+* 世界TTL/IC規格互換表
+  * https://twitter.com/EN_gelou/status/1785666478177714569
+* ホームラン、アウト、ヒット、２るいだ
+  * ゲームセンターあらし野球ゲーム ギャラクシアン
+  * https://twitter.com/japanretrogame/status/1779836071192486261
+* 04 05 06
+  * ガンダムセンチネルシリーズ用 ガンダムデカール
+  * https://twitter.com/CaenMkXIV/status/1740751787119055073
 
 ### 参考
 
